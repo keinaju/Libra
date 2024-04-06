@@ -1,2 +1,2 @@
 # Libra
-Local library application implemented with Node web server and connected to MongoDB.
+Library application implemented with Node.js web server and MongoDB.
